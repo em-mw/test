@@ -1,2 +1,1 @@
-```python 
-import thing```
+```python import thing```
